@@ -5,7 +5,7 @@
 - <b>Hardware And Embedded Security</b>
   - [2-Stage Caesar Cipher](https://github.com/marwanharuna/2-stage_Caesar_Cipher)
 - <b>Applied Cryptography</b>
-  - [Openssl Implementation(Cloud Storage)](#)
+  - [Openssl Implementation(Cloud Storage)](https://github.com/kalebgmichael/Applied_crypto_Cloud_demo)
 - <b>Language Based Technology for Security</b>
   - [Java with Enclaves](#)
 - <b>Information Technology Law</b>
