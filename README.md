@@ -8,9 +8,9 @@
   - [Cloud Storage Platform](https://github.com/marwanharuna/Applied_Cryptography)
 - <b>Language Based Technology for Security</b>
   - [Java with Enclaves](#)
- - <b>Peer to peer and Blockchain Technologies</b>
+- <b>Peer to peer and Blockchain Technologies</b>
   - [Battleship Game based on Ethereum](#)
- - <b>AI for Cyber Security</b>
+- <b>AI for Cyber Security</b>
   - [Network Intrusion Model](#)
 - <b>Information Technology Law</b>
   - [Regulations on Use of AI](#)
