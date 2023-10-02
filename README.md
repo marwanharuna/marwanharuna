@@ -3,11 +3,15 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Hardware And Embedded Security</b>
-  - [2-Stage Caesar Cipher](https://github.com/marwanharuna/2-stage_Caesar_Cipher)
+  - [2-Stage Caesar Cipher Module](https://github.com/marwanharuna/2-stage_Caesar_Cipher)
 - <b>Applied Cryptography</b>
   - [Cloud Storage Platform](https://github.com/marwanharuna/Applied_Cryptography)
 - <b>Language Based Technology for Security</b>
   - [Java with Enclaves](#)
+ - <b>Peer to peer and Blockchain Technologies</b>
+  - [Battleship Game based on Ethereum](#)
+ - <b>AI for Cyber Security</b>
+  - [Network Intrusion Model](#)
 - <b>Information Technology Law</b>
   - [Regulations on Use of AI](#)
 <!---
